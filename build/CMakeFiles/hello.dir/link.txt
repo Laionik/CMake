@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/hello.dir/src/main.cpp.o CMakeFiles/hello.dir/src/polygon.cpp.o CMakeFiles/hello.dir/src/rectangle.cpp.o CMakeFiles/hello.dir/src/triangle.cpp.o  -o hello -rdynamic 
